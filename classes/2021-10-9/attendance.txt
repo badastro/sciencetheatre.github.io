@@ -1,0 +1,20 @@
+Alexandra Williams-Fleck - Novelist
+Greg - Novelist
+reg e gaines - Poet
+reg e gaines' guest - Playwright, Poet
+Aliyah Curry - Playwright, Poet, Screenwriter
+Ben Porter - Poet
+Celeste Rita Baker - Novelist
+Dana Stringer - Playwright
+Dana Stringer's guest - Playwright
+Shaheem Shabazz - Poet
+Shaheem Shabazz's guest - Poet
+Ayvee V. - Composer, Screenwriter
+Marilyn Williams - Novelist
+
+Novelists(4) | Playwrights(4) | Poets(6) | Screenwriters(2)
+
+
+Red | Yellow | Green | Blue | Purple
+
+3 | 3 | 3 | 4
