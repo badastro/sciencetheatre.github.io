@@ -1,2 +1,2 @@
-# scitheatre.github.io
-SciT
+# sciencetheatre.github.io
+Science Theatre
